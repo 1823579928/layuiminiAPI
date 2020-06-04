@@ -23,7 +23,7 @@ import java.util.Map;
 @RequestMapping("/test")    //url注解
 public class test {
     /***
-     * 功能描述:    这就类似调用接口   别人写好的接口 你直接调用到前端展示数据xx
+     * 功能描述:    这就类似调用接口   别人写好的接口 你直接调用到前端展示数据xxs
      * @Param: []
      * @Return: java.lang.String
      * @Author: 邹捷
